@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\bin\Debug\Maze Solver.exe.config
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\bin\Debug\Maze Solver.exe
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\bin\Debug\Maze Solver.pdb
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\obj\Debug\Maze Solver.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\obj\Debug\Maze Solver.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\obj\Debug\Maze Solver.exe
+C:\Users\Ryan\source\repos\Maze Solver\Maze Solver\obj\Debug\Maze Solver.pdb
